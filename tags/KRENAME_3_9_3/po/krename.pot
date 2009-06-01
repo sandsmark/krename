@@ -1,0 +1,1048 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-01 11:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+
+#: main.cpp:45
+msgid "file will be added to the list of files for renaming"
+msgstr ""
+
+#: main.cpp:46
+msgid "add directory recursively"
+msgstr ""
+
+#: main.cpp:47
+msgid "set a template"
+msgstr ""
+
+#: main.cpp:48
+msgid "set a template for the file extension"
+msgstr ""
+
+#: main.cpp:49
+msgid "enable a plugin for use"
+msgstr ""
+
+#: main.cpp:50
+msgid "copy files to directory or url"
+msgstr ""
+
+#: main.cpp:51
+msgid "move files to directory or url"
+msgstr ""
+
+#: main.cpp:52
+msgid "link files to directory or url"
+msgstr ""
+
+#: main.cpp:53
+msgid "load the profile named [profile] on startup"
+msgstr ""
+
+#: main.cpp:54
+msgid "start renaming immediately"
+msgstr ""
+
+#: main.cpp:55
+msgid "start KRename's selftest (developers only)"
+msgstr ""
+
+#: main.cpp:59 krenameimpl.cpp:382
+msgid "KRename"
+msgstr ""
+
+#: main.cpp:60
+msgid ""
+"KRename is a batch file renamer which can rename a\n"
+"list of files based on a set of expressions.\n"
+"\n"
+"If you like KRename you may want to support it.\n"
+"Testing, bug fixes and feature request are as welcome\n"
+"as financial support (everybody needs money ;)\n"
+"See help files for details.\n"
+msgstr ""
+
+#: main.cpp:65
+msgid "KRename Build:"
+msgstr ""
+
+#: main.cpp:66
+msgid "(c) 2001-2009, Dominik Seichter\n"
+msgstr ""
+
+#: main.cpp:69
+msgid "Dominik Seichter"
+msgstr ""
+
+#: main.cpp:69
+msgid "developer and maintainer"
+msgstr ""
+
+#: main.cpp:71
+msgid "Stefan \"Stonki\" Onken"
+msgstr ""
+
+#: main.cpp:72
+msgid "Website, testing, very good ideas and keeping me coding!"
+msgstr ""
+
+#: main.cpp:75
+msgid "Trevor Semeniuk"
+msgstr ""
+
+#: main.cpp:75
+msgid "Thanks to him for creating RedHat 7.x packages and some other help."
+msgstr ""
+
+#: main.cpp:77
+msgid "Groult Richard"
+msgstr ""
+
+#: main.cpp:77
+msgid ""
+"Fixed a bug with startIndex and added the BatchRenamer class\n"
+"to his excellent image viewer showimg."
+msgstr ""
+
+#: main.cpp:80
+msgid "Michael Elvers"
+msgstr ""
+
+#: main.cpp:80
+msgid "Fixed a bug that caused krename not closing open files."
+msgstr ""
+
+#: main.cpp:82
+msgid "Andreas Pour"
+msgstr ""
+
+#: main.cpp:82
+msgid ""
+"Thanks for his great job at apps.kde.com and help with contributing krename "
+"to apps.kde.com."
+msgstr ""
+
+#: main.cpp:84
+msgid "Charles Samuels"
+msgstr ""
+
+#: main.cpp:84
+msgid ""
+"Thanks for noatun and the ID3/Ogg Tag code is based on his noatun modules."
+msgstr ""
+
+#: main.cpp:86
+msgid "Franz Schmid"
+msgstr ""
+
+#: main.cpp:86
+msgid "Gave me a good start into writing plugins with his application scribus."
+msgstr ""
+
+#: main.cpp:88
+msgid "Rolf Magnus"
+msgstr ""
+
+#: main.cpp:88
+msgid ""
+"Parts of the PNG support are copied from his KFile plugin for png support."
+msgstr ""
+
+#: main.cpp:90
+msgid "Michael v.Ostheim"
+msgstr ""
+
+#: main.cpp:90
+msgid "Created the Gentoo Ebuild scripts for Krename."
+msgstr ""
+
+#: main.cpp:92
+msgid "Brandon Low"
+msgstr ""
+
+#: main.cpp:92
+msgid "Some GCC 3.1 fixes for Gentoo."
+msgstr ""
+
+#: main.cpp:94
+msgid "Per Oyvind Karlsen"
+msgstr ""
+
+#: main.cpp:94
+msgid "Thanks for creating the Mandrake RPM"
+msgstr ""
+
+#: main.cpp:96
+msgid "Daniele Medri"
+msgstr ""
+
+#: main.cpp:96
+msgid "Italian translation"
+msgstr ""
+
+#: main.cpp:97
+msgid "Stephan Johach"
+msgstr ""
+
+#: main.cpp:97
+msgid "Provided a gcc3.x namespace patch"
+msgstr ""
+
+#: main.cpp:98
+msgid "Michael Zugaro"
+msgstr ""
+
+#: main.cpp:98
+msgid "Provided the new preview and move features"
+msgstr ""
+
+#: main.cpp:99
+msgid "Rene Gass"
+msgstr ""
+
+#: main.cpp:99
+msgid ""
+"Fixed problems with the spec file and contributed rpms for every SuSE "
+"version you can imagine and is also the new Gentoo maintainer for KRename"
+msgstr ""
+
+#: main.cpp:100
+msgid "Mark Ziegler"
+msgstr ""
+
+#: main.cpp:100
+msgid "Provided SuSE RPMs and very good suggestions"
+msgstr ""
+
+#: main.cpp:101
+msgid "Jose Rodriguez"
+msgstr ""
+
+#: main.cpp:101
+msgid "Contributed a Spanish translation"
+msgstr ""
+
+#: main.cpp:102
+msgid "Steven P. Ulrick"
+msgstr ""
+
+#: main.cpp:102
+msgid "Provided a RedHat RPM and was big help in improving KRename"
+msgstr ""
+
+#: main.cpp:103
+msgid "UTUMI Hirosi"
+msgstr ""
+
+#: main.cpp:103
+msgid "Translated KRename to Japanese"
+msgstr ""
+
+#: main.cpp:104
+msgid "Nicolas Benoit"
+msgstr ""
+
+#: main.cpp:104
+msgid "Translated KRename into French"
+msgstr ""
+
+#: main.cpp:105
+msgid "Krzysztof Pawlak"
+msgstr ""
+
+#: main.cpp:105
+msgid "Translated KRename into Polish"
+msgstr ""
+
+#: main.cpp:106
+msgid "Ilya Ivkov"
+msgstr ""
+
+#: main.cpp:106
+msgid "Translated KRename into Russian"
+msgstr ""
+
+#: main.cpp:107
+msgid "Asim Husanovic"
+msgstr ""
+
+#: main.cpp:107
+msgid "Translated KRename into Bosnian"
+msgstr ""
+
+#: main.cpp:108
+msgid "Michal Smoczyk"
+msgstr ""
+
+#: main.cpp:108
+msgid "Polish Translation"
+msgstr ""
+
+#: main.cpp:109
+msgid "Pavel Fric"
+msgstr ""
+
+#: main.cpp:109
+msgid "Czech Translation"
+msgstr ""
+
+#: main.cpp:129
+msgid ""
+"<b>Krename was started from root!</b><br>When started from root, Krename may "
+"damage your system if you do not know exactly what you are doing!"
+msgstr ""
+
+#: main.cpp:133
+msgid "Error"
+msgstr ""
+
+#: krenameimpl.cpp:123
+msgid "E&xtras"
+msgstr ""
+
+#: krenameimpl.cpp:127
+msgid "&Profiles..."
+msgstr ""
+
+#: krenameimpl.cpp:356 scriptplugin.cpp:298 scriptplugin.cpp:333
+msgid "*|All files and directories"
+msgstr ""
+
+#: krenameimpl.cpp:381
+msgid "Do you really want to remove all files from the list?"
+msgstr ""
+
+#: krenameimpl.cpp:496
+msgid "old filename"
+msgstr ""
+
+#: krenameimpl.cpp:497
+msgid "old filename converted to lower case"
+msgstr ""
+
+#: krenameimpl.cpp:498
+msgid "old filename converted to upper case"
+msgstr ""
+
+#: krenameimpl.cpp:499
+msgid "first letter of every word upper case"
+msgstr ""
+
+#: krenameimpl.cpp:500
+msgid "first letter of filename upper case"
+msgstr ""
+
+#: krenameimpl.cpp:501
+msgid "number (try also ##, ###, ... for leading zeros)"
+msgstr ""
+
+#: krenameimpl.cpp:502
+msgid "counter with custom start value 0 and custom stepping 1"
+msgstr ""
+
+#: krenameimpl.cpp:503
+msgid "create a subdirectory"
+msgstr ""
+
+#: krenameimpl.cpp:504
+msgid "character x to y of old filename"
+msgstr ""
+
+#: krenameimpl.cpp:505
+msgid "y characters of old filename starting at x"
+msgstr ""
+
+#: krenameimpl.cpp:506
+msgid "insert name of directory"
+msgstr ""
+
+#: krenameimpl.cpp:507
+msgid "insert name of parent directory"
+msgstr ""
+
+#: krenameimpl.cpp:508
+msgid "insert the length of the input filename"
+msgstr ""
+
+#: krenameimpl.cpp:509
+msgid "strip whitespaces leading and trailing"
+msgstr ""
+
+#: krenameimpl.cpp:510
+msgid "strip whitespaces leading and trailing of an arbitrary string"
+msgstr ""
+
+#: krenameimpl.cpp:511
+msgid "Built-in Functions"
+msgstr ""
+
+#: krenameimpl.cpp:514
+msgid "Insert '$'"
+msgstr ""
+
+#: krenameimpl.cpp:515
+msgid "Insert '%'"
+msgstr ""
+
+#: krenameimpl.cpp:516
+msgid "Insert '&'"
+msgstr ""
+
+#: krenameimpl.cpp:517
+msgid "Insert '*'"
+msgstr ""
+
+#: krenameimpl.cpp:518
+msgid "Insert '/'"
+msgstr ""
+
+#: krenameimpl.cpp:519
+msgid "Insert '\\\\'"
+msgstr ""
+
+#: krenameimpl.cpp:520
+msgid "Insert '['"
+msgstr ""
+
+#: krenameimpl.cpp:521
+msgid "Insert ']'"
+msgstr ""
+
+#: krenameimpl.cpp:522
+msgid "Insert '#'"
+msgstr ""
+
+#: krenameimpl.cpp:523
+msgid "Special Characters"
+msgstr ""
+
+#: krenameimpl.cpp:564
+msgid "Starting conversion of %1 files."
+msgstr ""
+
+#: krenameimpl.cpp:575
+msgid ""
+"The directory %1 does not exist. Do you want KRename to create it for you?"
+msgstr ""
+
+#: krenameimpl.cpp:583
+msgid "The directory %1 could not be created."
+msgstr ""
+
+#: krenamewindow.cpp:47
+msgid "&Files"
+msgstr ""
+
+#: krenamewindow.cpp:48
+msgid "&Destination"
+msgstr ""
+
+#: krenamewindow.cpp:49
+msgid "&Plugins"
+msgstr ""
+
+#: krenamewindow.cpp:50
+msgid "File&name"
+msgstr ""
+
+#: krenamewindow.cpp:131
+msgid "&Finish..."
+msgstr ""
+
+#: krenamewindow.cpp:132
+msgid "&Close"
+msgstr ""
+
+#: krenamewindow.cpp:328
+msgid "<b>Files:<b> %1"
+msgstr ""
+
+#: krenamemodel.cpp:485
+msgid "Origin"
+msgstr ""
+
+#: krenamemodel.cpp:485
+msgid "Renamed"
+msgstr ""
+
+#: filedialogextwidget.cpp:33
+msgid "Add directory names &with filenames"
+msgstr ""
+
+#: filedialogextwidget.cpp:34
+msgid "Add subdirectories &recursively"
+msgstr ""
+
+#: filedialogextwidget.cpp:35
+msgid "Add &hidden directories"
+msgstr ""
+
+#: filedialogextwidget.cpp:36
+msgid "Add directory names only"
+msgstr ""
+
+#: filedialogextwidget.cpp:49
+msgid ""
+"Walk recursively through the directory tree and add also the content of all "
+"subdirectories to the list of files to rename."
+msgstr ""
+
+#: filedialogextwidget.cpp:51
+msgid ""
+"If not checked, KRename will ignore directories starting with a dot during "
+"recursive adding."
+msgstr ""
+
+#: filedialogextwidget.cpp:53
+msgid ""
+"Add only the directory names and not the names of the files in the directory "
+"to KRename."
+msgstr ""
+
+#: filedialogextwidget.cpp:55
+msgid ""
+"This option causes KRename to add also the name of the base directory of the "
+"selected files to its list."
+msgstr ""
+
+#: batchrenamer.cpp:227 batchrenamer.cpp:690
+msgid "Input files will be renamed."
+msgstr ""
+
+#: batchrenamer.cpp:230 batchrenamer.cpp:684
+msgid "Files will be copied to: %1"
+msgstr ""
+
+#: batchrenamer.cpp:233 batchrenamer.cpp:686
+msgid "Files will be moved to: %1"
+msgstr ""
+
+#: batchrenamer.cpp:236 batchrenamer.cpp:688
+msgid "Symbolic links will be created in: %1"
+msgstr ""
+
+#: batchrenamer.cpp:269
+msgid "Cannot create symlink to non-local URL: %1"
+msgstr ""
+
+#: batchrenamer.cpp:282
+msgid "Error renaming %2 (to %1)"
+msgstr ""
+
+#: batchrenamer.cpp:302 batchrenamer.cpp:425
+msgid "%1 errors occurred!"
+msgstr ""
+
+#: batchrenamer.cpp:304 batchrenamer.cpp:762
+msgid "KRename finished the renaming process."
+msgstr ""
+
+#: batchrenamer.cpp:305 batchrenamer.cpp:428 batchrenamer.cpp:763
+msgid "Press close to quit!"
+msgstr ""
+
+#: batchrenamer.cpp:371
+msgid "Filenames Processed after %1 seconds."
+msgstr ""
+
+#: batchrenamer.cpp:386
+msgid "Undoing all renamed files."
+msgstr ""
+
+#: batchrenamer.cpp:418
+msgid "Error during undoing %1"
+msgstr ""
+
+#: batchrenamer.cpp:427
+msgid "KRename finished the undo process."
+msgstr ""
+
+#: batchrenamer.cpp:671
+msgid "Can't create undo script :"
+msgstr ""
+
+#: batchrenamer.cpp:743
+msgid "Undo is not possible for remote file: %1"
+msgstr ""
+
+#: batchrenamer.cpp:755
+msgid "Renamed %1 files successfully."
+msgstr ""
+
+#: batchrenamer.cpp:759
+msgid "%2 errors occurred!"
+msgstr ""
+
+#: batchrenamer.cpp:761
+msgid "Elapsed time: %1 seconds"
+msgstr ""
+
+#: batchrenamer.cpp:773
+msgid "Can't set executable bit on undo script."
+msgstr ""
+
+#: progressdialog.cpp:33
+msgid "&Rename more..."
+msgstr ""
+
+#: progressdialog.cpp:34
+msgid "&Undo"
+msgstr ""
+
+#: progressdialog.cpp:35
+msgid "&Open Destination..."
+msgstr ""
+
+#: progressdialog.cpp:47
+msgid "Restart &KRename..."
+msgstr ""
+
+#: progressdialog.cpp:49
+msgid "Rename Processed Files &Again..."
+msgstr ""
+
+#: progressdialog.cpp:50
+msgid "Rename &Unprocessed Files Again..."
+msgstr ""
+
+#: progressdialog.cpp:51
+msgid "&Rename All Files Again..."
+msgstr ""
+
+#: fileplugin.cpp:84
+msgid "Supported tokens:"
+msgstr ""
+
+#: tokenhelpdialog.cpp:28
+msgid "&Insert"
+msgstr ""
+
+#: rc.cpp:3 previewlist.cpp:36
+#, no-c-format
+msgid "&Add..."
+msgstr ""
+
+#: rc.cpp:6
+#, no-c-format
+msgid "Re&move"
+msgstr ""
+
+#: rc.cpp:9
+#, no-c-format
+msgid "Re&move All"
+msgstr ""
+
+#: rc.cpp:12
+#, no-c-format
+msgid "Sort: Unsorted"
+msgstr ""
+
+#: rc.cpp:15
+#, no-c-format
+msgid "Sort: Ascending"
+msgstr ""
+
+#: rc.cpp:18
+#, no-c-format
+msgid "Sort: Descending"
+msgstr ""
+
+#: rc.cpp:21
+#, no-c-format
+msgid "Sort: Numeric"
+msgstr ""
+
+#: rc.cpp:24
+#, no-c-format
+msgid "Sort: Random"
+msgstr ""
+
+#: rc.cpp:27
+#, no-c-format
+msgid "&Preview"
+msgstr ""
+
+#: rc.cpp:30
+#, no-c-format
+msgid "&Display name"
+msgstr ""
+
+#: rc.cpp:33
+#, no-c-format
+msgid "Files: <b>0</b>"
+msgstr ""
+
+#: rc.cpp:36
+#, no-c-format
+msgid "Up"
+msgstr ""
+
+#: rc.cpp:39
+#, no-c-format
+msgid "Move"
+msgstr ""
+
+#: rc.cpp:42
+#, no-c-format
+msgid "Down"
+msgstr ""
+
+#: previewlist.cpp:32
+msgid "&Change filename manually..."
+msgstr ""
+
+#: previewlist.cpp:34
+msgid "&Open"
+msgstr ""
+
+#: previewlist.cpp:37
+msgid "&Remove"
+msgstr ""
+
+#: exiv2plugin.cpp:306
+msgid "Insert the comment of an image"
+msgstr ""
+
+#: exiv2plugin.cpp:377
+msgid "Exiv2 (JPEG/TIFF Exif) Plugin"
+msgstr ""
+
+#: exiv2plugin.cpp:378
+msgid "<qt>This plugin supports reading tags from JPEG and TIFF files.</qt>"
+msgstr ""
+
+#: systemplugin.cpp:50
+msgid "Insert the current date"
+msgstr ""
+
+#: systemplugin.cpp:51
+msgid "Insert the current date using the formatting string yyyy-MM-dd"
+msgstr ""
+
+#: systemplugin.cpp:52
+msgid "Insert the current year"
+msgstr ""
+
+#: systemplugin.cpp:53
+msgid "Insert the current month as number"
+msgstr ""
+
+#: systemplugin.cpp:54
+msgid "Insert the current day as number"
+msgstr ""
+
+#: systemplugin.cpp:55
+msgid "Insert the current time"
+msgstr ""
+
+#: systemplugin.cpp:56
+msgid "Insert the current hour as number"
+msgstr ""
+
+#: systemplugin.cpp:57
+msgid "Insert the current minute as number"
+msgstr ""
+
+#: systemplugin.cpp:58
+msgid "Insert the current second as number"
+msgstr ""
+
+#: systemplugin.cpp:59
+msgid "Owner of the file"
+msgstr ""
+
+#: systemplugin.cpp:60
+msgid "Owning group of the file"
+msgstr ""
+
+#: systemplugin.cpp:61
+msgid "Insert the files creation date"
+msgstr ""
+
+#: systemplugin.cpp:62
+msgid "Insert the formatted file creation date"
+msgstr ""
+
+#: systemplugin.cpp:63
+msgid "Insert the files modification date"
+msgstr ""
+
+#: systemplugin.cpp:64
+msgid "Insert the formatted modification date"
+msgstr ""
+
+#: systemplugin.cpp:65
+msgid "Insert the date of the last file access"
+msgstr ""
+
+#: systemplugin.cpp:66
+msgid "Insert the formatted date of the last file access"
+msgstr ""
+
+#: systemplugin.cpp:68
+msgid "Date and system functions"
+msgstr ""
+
+#: systemplugin.cpp:70
+msgid ""
+"<qt>This plugin contains tokens to get the creation, modification and last "
+"access time of files and the current system time and date.</qt>"
+msgstr ""
+
+#: scriptplugin.cpp:63
+msgid "JavaScript Plugin"
+msgstr ""
+
+#: scriptplugin.cpp:71
+msgid "Insert a snippet of JavaScript code (4+5 in this case)"
+msgstr ""
+
+#: scriptplugin.cpp:73
+msgid "Index of the current file"
+msgstr ""
+
+#: scriptplugin.cpp:74
+msgid "URL of the current file"
+msgstr ""
+
+#: scriptplugin.cpp:75
+msgid "Filename of the current file"
+msgstr ""
+
+#: scriptplugin.cpp:76
+msgid "Extension of the current file"
+msgstr ""
+
+#: scriptplugin.cpp:77
+msgid "Directory of the current file"
+msgstr ""
+
+#: scriptplugin.cpp:131
+msgid "Variable Name"
+msgstr ""
+
+#: scriptplugin.cpp:132
+msgid "Initial Value"
+msgstr ""
+
+#: scriptplugin.cpp:241
+msgid "String"
+msgstr ""
+
+#: scriptplugin.cpp:242
+msgid "Int"
+msgstr ""
+
+#: scriptplugin.cpp:243
+msgid "Double"
+msgstr ""
+
+#: scriptplugin.cpp:244
+msgid "Boolean"
+msgstr ""
+
+#: scriptplugin.cpp:262
+msgid "A JavaScript error has occured: "
+msgstr ""
+
+#: scriptplugin.cpp:291
+msgid ""
+"All currently entered definitions will be lost. Do you want to continue?"
+msgstr ""
+
+#: scriptplugin.cpp:319
+msgid "Unable to open %1 for reading."
+msgstr ""
+
+#: scriptplugin.cpp:343
+msgid "The file %1 already exists. Do you want to overwrite it?"
+msgstr ""
+
+#: scriptplugin.cpp:376
+msgid "Unable to open %1 for writing."
+msgstr ""
+
+#: translitplugin.cpp:94
+msgid "Inserts the transliterated original filename"
+msgstr ""
+
+#: translitplugin.cpp:95
+msgid "Inserts the transliterated original filename converted to lower case"
+msgstr ""
+
+#: translitplugin.cpp:96
+msgid "Inserts the transliterated original filename converted to upper case"
+msgstr ""
+
+#: translitplugin.cpp:97
+msgid "Inserts the transliterated original filename capitalized"
+msgstr ""
+
+#: translitplugin.cpp:98
+msgid "Transliterates the string following the semicolon"
+msgstr ""
+
+#: translitplugin.cpp:100
+msgid "Transliteration"
+msgstr ""
+
+#: translitplugin.cpp:102
+msgid ""
+"<qt>This plugin can transcribe a filename into English (i.e. perform "
+"transliteration).</qt>"
+msgstr ""
+
+#: datetimeplugin.cpp:51
+msgid "Date & Time Plugin"
+msgstr ""
+
+#: datetimeplugin.cpp:71
+msgid "DateTimePlugin works only with local files. %1 is a remote file."
+msgstr ""
+
+#: datetimeplugin.cpp:113
+msgid "Can't change date of file %1. (Cannot mktime)"
+msgstr ""
+
+#: datetimeplugin.cpp:118
+msgid "Can't change date of file %1. (Cannot stat the file)"
+msgstr ""
+
+#: datetimeplugin.cpp:127
+msgid "Can't change date of file %1. (utime failed)"
+msgstr ""
+
+#: permissionsplugin.cpp:112
+msgid "Permissions"
+msgstr ""
+
+#: permissionsplugin.cpp:125
+msgid "PermissionsPlugin works only with local files. %1 is a remote file."
+msgstr ""
+
+#: permissionsplugin.cpp:130
+msgid "Can't chmod %1."
+msgstr ""
+
+#: permissionsplugin.cpp:139
+msgid "Can't chown %1."
+msgstr ""
+
+#: permissionsplugin.cpp:182
+msgid "Access permissions"
+msgstr ""
+
+#: permissionsplugin.cpp:187
+msgid "Class"
+msgstr ""
+
+#: permissionsplugin.cpp:190
+msgid "Read"
+msgstr ""
+
+#: permissionsplugin.cpp:193
+msgid "Write"
+msgstr ""
+
+#: permissionsplugin.cpp:196
+msgid "Exec"
+msgstr ""
+
+#: permissionsplugin.cpp:202
+msgid "Special"
+msgstr ""
+
+#: permissionsplugin.cpp:205
+msgid "User"
+msgstr ""
+
+#: permissionsplugin.cpp:208
+msgid "Group"
+msgstr ""
+
+#: permissionsplugin.cpp:211
+msgid "Others"
+msgstr ""
+
+#: permissionsplugin.cpp:214
+msgid "UID"
+msgstr ""
+
+#: permissionsplugin.cpp:217
+msgid "GID"
+msgstr ""
+
+#: permissionsplugin.cpp:220
+msgid "Sticky"
+msgstr ""
+
+#: taglibplugin.cpp:41
+msgid "Insert the title of a track"
+msgstr ""
+
+#: taglibplugin.cpp:42
+msgid "Insert the artist of a track"
+msgstr ""
+
+#: taglibplugin.cpp:43
+msgid "Insert the album of a track"
+msgstr ""
+
+#: taglibplugin.cpp:44
+msgid "Insert the comment of a track"
+msgstr ""
+
+#: taglibplugin.cpp:45
+msgid "Insert the genre of a track"
+msgstr ""
+
+#: taglibplugin.cpp:46
+msgid "Insert the year of a track"
+msgstr ""
+
+#: taglibplugin.cpp:47
+msgid "Insert the number of a track"
+msgstr ""
+
+#: taglibplugin.cpp:48
+msgid "Insert the number of a track formatted with a leading 0"
+msgstr ""
+
+#: taglibplugin.cpp:50
+msgid "TagLib (MP3/Ogg) Plugin"
+msgstr ""
+
+#: taglibplugin.cpp:51
+msgid ""
+"<qt>This plugin supports reading tags for MP3, Ogg Vorbis, FLAC, MPC, Speex "
+"WavPack and TrueAudio files.</qt>"
+msgstr ""
+
+#: increasecounterplugin.cpp:41
+msgid "Increase Counter"
+msgstr ""
