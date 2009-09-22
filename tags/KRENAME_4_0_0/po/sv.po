@@ -1,0 +1,1685 @@
+# translation of sv.po to svenska
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Peter Landgren <peter.talken@telia.com>, 2005, 2006, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: sv\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-22 20:28+0200\n"
+"PO-Revision-Date: 2009-06-01 15:20+0200\n"
+"Last-Translator: Peter Landgren <peter.talken@telia.com>\n"
+"Language-Team: svenska <sv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: rc.cpp:108 rc.cpp:120
+msgid "$"
+msgstr ""
+
+#: batchrenamer.cpp:301 batchrenamer.cpp:424
+msgid "%1 errors occurred!"
+msgstr "%1 fel inträffade!"
+
+#: batchrenamer.cpp:758
+msgid "%2 errors occurred!"
+msgstr "%2 fel inträffade!"
+
+#: rc.cpp:384
+msgid "&Add Number"
+msgstr ""
+
+#: rc.cpp:6 rc.cpp:438 rc.cpp:603 previewlist.cpp:36
+msgid "&Add..."
+msgstr "&Lägg till..."
+
+#: rc.cpp:99
+#, fuzzy
+msgid "&Advanced Filename"
+msgstr "gammalt filnamn"
+
+#: rc.cpp:423
+msgid "&Cancel"
+msgstr ""
+
+#: rc.cpp:558
+msgid "&Change Owner"
+msgstr ""
+
+#: previewlist.cpp:32
+msgid "&Change filename manually..."
+msgstr "&Ändra filnamn manuellt..."
+
+#: krenamewindow.cpp:134
+msgid "&Close"
+msgstr "&Stäng"
+
+#: rc.cpp:399
+msgid "&Convert selection:"
+msgstr ""
+
+#: rc.cpp:84
+#, fuzzy
+msgid "&Copy files to destination directory"
+msgstr "kopiera filer till mapp eller url"
+
+#: rc.cpp:609
+#, fuzzy
+msgid "&Definitions"
+msgstr "M&ål"
+
+#: rc.cpp:606
+msgid "&Delete"
+msgstr ""
+
+#: krenamewindow.cpp:48
+msgid "&Destination"
+msgstr "M&ål"
+
+#: rc.cpp:45
+msgid "&Display name"
+msgstr "&Visa namn"
+
+#: rc.cpp:264 rc.cpp:363
+#, fuzzy
+msgid "&Down"
+msgstr "Ner"
+
+#: rc.cpp:441
+#, fuzzy
+msgid "&Edit..."
+msgstr "&Lägg till..."
+
+#: rc.cpp:273
+#, fuzzy
+msgid "&Enable Plugin"
+msgstr "&Plugin"
+
+#: rc.cpp:216 rc.cpp:324
+msgid "&Extension:"
+msgstr ""
+
+#: rc.cpp:171 rc.cpp:279
+#, fuzzy
+msgid "&Filename"
+msgstr "Fil&namn"
+
+#: krenamewindow.cpp:47
+msgid "&Files"
+msgstr "F&iler"
+
+#: rc.cpp:450
+msgid "&Find:"
+msgstr ""
+
+#: krenamewindow.cpp:133
+msgid "&Finish..."
+msgstr "Avs&lutning"
+
+#: rc.cpp:126
+#, fuzzy
+msgid "&Functions..."
+msgstr "Avs&lutning"
+
+#: rc.cpp:567
+#, fuzzy
+msgid "&Group:"
+msgstr "Grupp"
+
+#: rc.cpp:642
+#, fuzzy
+msgid "&Increase Counter"
+msgstr "Öka räknare"
+
+#: rc.cpp:633
+#, fuzzy
+msgid "&Initial Value:"
+msgstr "Startvärde"
+
+#: tokenhelpdialog.cpp:35
+msgid "&Insert"
+msgstr "Skjut &in"
+
+#: rc.cpp:165
+#, fuzzy
+msgid "&Insert Part of Filename..."
+msgstr "Starta om &KRename..."
+
+#: rc.cpp:621
+#, fuzzy
+msgid "&Insert Variable"
+msgstr "Skjut &in"
+
+#: rc.cpp:396
+msgid "&Invert selection"
+msgstr ""
+
+#: rc.cpp:618
+#, fuzzy
+msgid "&Load from File..."
+msgstr "&Profiler..."
+
+#: rc.cpp:87
+#, fuzzy
+msgid "&Move files to destination directory"
+msgstr "flytta filer till mapp eller url"
+
+#: rc.cpp:630
+#, fuzzy
+msgid "&Name:"
+msgstr "Fil&namn"
+
+#: rc.cpp:369
+msgid "&Numbering"
+msgstr ""
+
+#: rc.cpp:159
+msgid "&Numbering..."
+msgstr ""
+
+#: rc.cpp:653
+msgid "&Offset:"
+msgstr ""
+
+#: previewlist.cpp:34
+msgid "&Open"
+msgstr "&Öppna"
+
+#: progressdialog.cpp:35
+msgid "&Open Destination..."
+msgstr "Öppna mål..."
+
+#: rc.cpp:78
+#, fuzzy
+msgid "&Options"
+msgstr "&Öppna"
+
+#: rc.cpp:93
+msgid "&Overwrite existing files"
+msgstr ""
+
+#: krenamewindow.cpp:49
+msgid "&Plugins"
+msgstr "&Plugin"
+
+#: rc.cpp:213 rc.cpp:321
+#, fuzzy
+msgid "&Prefix:"
+msgstr "&Förhandsgranskning"
+
+#: rc.cpp:39
+msgid "&Preview"
+msgstr "&Förhandsgranskning"
+
+#: rc.cpp:444 previewlist.cpp:37
+msgid "&Remove"
+msgstr "Ta&gbort"
+
+#: rc.cpp:387
+#, fuzzy
+msgid "&Remove Number"
+msgstr "Ta&gbort"
+
+#: progressdialog.cpp:51
+msgid "&Rename All Files Again..."
+msgstr "Döp om alla filer &igen..."
+
+#: rc.cpp:81
+#, fuzzy
+msgid "&Rename input files"
+msgstr "KRename Build:"
+
+#: progressdialog.cpp:33
+msgid "&Rename more..."
+msgstr "&Döp om fler..."
+
+#: rc.cpp:453
+msgid "&Replace With:"
+msgstr ""
+
+#: rc.cpp:378
+#, fuzzy
+msgid "&Reset counter for every directory"
+msgstr "skjut in mappnamn"
+
+#: rc.cpp:615
+#, fuzzy
+msgid "&Save to File..."
+msgstr "Starta om &KRename..."
+
+#: rc.cpp:168
+#, fuzzy
+msgid "&Simple Filename"
+msgstr "gammalt filnamn"
+
+#: rc.cpp:381
+msgid "&Skip Numbers"
+msgstr ""
+
+#: rc.cpp:375
+msgid "&Step by:"
+msgstr ""
+
+#: rc.cpp:174 rc.cpp:282
+msgid "&Suffix:"
+msgstr ""
+
+#: rc.cpp:102
+msgid "&Template:"
+msgstr ""
+
+#: rc.cpp:624
+#, fuzzy
+msgid "&Test..."
+msgstr "&Profiler..."
+
+#: rc.cpp:636
+msgid "&Type:"
+msgstr ""
+
+#: progressdialog.cpp:34
+msgid "&Undo"
+msgstr "&Ångra"
+
+#: rc.cpp:258 rc.cpp:360
+#, fuzzy
+msgid "&Up"
+msgstr "Upp"
+
+#: rc.cpp:132
+#, fuzzy
+msgid "&Use extension of the input file"
+msgstr "Filbestämning för den aktuella filen."
+
+#: rc.cpp:564
+#, fuzzy
+msgid "&User:"
+msgstr "Användare"
+
+#: rc.cpp:594
+#, fuzzy
+msgid "&Variables"
+msgstr "Variabelnamn"
+
+#: main.cpp:66
+msgid "(c) 2001-2009, Dominik Seichter\n"
+msgstr "(c) 2001-2009, Dominik Seichter\n"
+
+#: krenameimpl.cpp:357 scriptplugin.cpp:298 scriptplugin.cpp:333
+msgid "*|All files and directories"
+msgstr "*|Alla filer och mappar"
+
+#: rc.cpp:600
+msgid "1"
+msgstr ""
+
+#: rc.cpp:645
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+"REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:10pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">This plugin adds a given offset to numbers in filenames.</"
+"span></p>\n"
+"<p align=\"justify\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">E.g. you "
+"have the filenames: <span style=\" font-style:italic;\">img014</span>, <span "
+"style=\" font-style:italic;\">img015</span>, <span style=\" font-style:"
+"italic;\">img023</span> which should be named<span style=\" font-style:"
+"italic;\"> img010</span>, <span style=\" font-style:italic;\">img011</span> "
+"and <span style=\" font-style:italic;\">img019. </span>Using this plugin, "
+"you can easily add an offset of -4 to get the desired result.</p></body></"
+"html>"
+msgstr ""
+
+#: krenamewindow.cpp:333
+msgid "<b>Files:<b> %1"
+msgstr "<b>Filer:<b> %1"
+
+#: main.cpp:129
+msgid ""
+"<b>Krename was started from root!</b><br>When started from root, Krename may "
+"damage your system if you do not know exactly what you are doing!"
+msgstr ""
+"<b>KRename startade från rot!</b><br>Om den startas från rot, kan KRename "
+"förstöra ditt system om du inte vet exakt vad du håller på med!"
+
+#: rc.cpp:111
+msgid ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal; text-decoration:none;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">.</span></p></body></html>"
+msgstr ""
+
+#: main.cpp:60
+#, fuzzy
+msgid ""
+"<qt><p>KRename is a batch file renamer which can rename alist of files based "
+"on a set of expressions.</p><p>If you like KRename you may want to support "
+"it.Testing, bug fixes and feature request are as welcome.as financial "
+"support (everybody needs money ;) maSee help files for details.</p></qt>"
+msgstr ""
+"KRename är en klumpvis filomdöpare, som kan döpa om en\n"
+"fillista grundad på en mängd uttryck.\n"
+"\n"
+"Om du gillar KRename kan du vilja stödja det.\n"
+"Utprovning, felrättning och funktionsönskemål är lika välkomna\n"
+"som finansiellt stöd. (alla behöver pengar ;)\n"
+"Se hjälpfilen för detaljer.\n"
+
+#: rc.cpp:156
+msgid ""
+"<qt>Configure start index, stepping and skipping for numbering of filenames."
+"</qt>"
+msgstr ""
+
+#: rc.cpp:138
+msgid ""
+"<qt>Configure which part of the filename is considered to be the "
+"fileextension. E.g. \"First Dot\", will consider \".tar.gz\" as extension, "
+"\"Last Dot\" only \".gz\".</qt>"
+msgstr ""
+
+#: rc.cpp:117
+#, fuzzy
+msgid "<qt>Enter a temlate for renaming the file extension.</qt>"
+msgstr "sätt en mall för filändelser"
+
+#: rc.cpp:105
+msgid "<qt>Enter a temlate for renaming the filename.</qt>"
+msgstr ""
+
+#: rc.cpp:150 rc.cpp:249
+msgid ""
+"<qt>Find and replace strings and regular expressions in the renamed filename."
+"</qt>"
+msgstr ""
+
+#: rc.cpp:162
+msgid "<qt>Graphically select a part of a filename to insert.</qt>"
+msgstr ""
+
+#: rc.cpp:123 rc.cpp:177 rc.cpp:180 rc.cpp:201 rc.cpp:210
+msgid ""
+"<qt>Insert special functions like the artist of a mp3 or the creation date "
+"of an image.</qt>"
+msgstr ""
+
+#: rc.cpp:129
+msgid "<qt>Keep the file extension as it is and do not change it.</qt>"
+msgstr ""
+
+#: rc.cpp:393
+msgid ""
+"<qt>Please select the part of the old filename  which should be inserted "
+"into the new filename in the textbox below:</qt>"
+msgstr ""
+
+#: translitplugin.cpp:102
+msgid ""
+"<qt>This plugin can transcribe a filename into English (i.e. perform "
+"transliteration).</qt>"
+msgstr ""
+"<qt>Denna plugin kan transkribera ett filnamn till engelska (d. v. s. "
+"genomföra translitteration).</qt>"
+
+#: systemplugin.cpp:70
+msgid ""
+"<qt>This plugin contains tokens to get the creation, modification and last "
+"access time of files and the current system time and date.</qt>"
+msgstr ""
+"<qt>Denna plugin innehåller symboler för erhålla att tider för skapelse, "
+"ändring och senaste åtkomst för filer samt aktuell tid och datum från "
+"systemtet.</qt>"
+
+#: taglibplugin.cpp:51
+msgid ""
+"<qt>This plugin supports reading tags for MP3, Ogg Vorbis, FLAC, MPC, Speex "
+"WavPack and TrueAudio files.</qt>"
+msgstr ""
+"<qt>Denna plugin stöder läsning av märken för MP3, Ogg Vorbis, FLAC, MPC, "
+"Speex WavPack och TrueAudio filer.</qt>"
+
+#: exiv2plugin.cpp:378
+msgid "<qt>This plugin supports reading tags from JPEG and TIFF files.</qt>"
+msgstr "<qt>Denna plugin sorterar läsmärken från JPEG- och TIFF-filer.</qt>"
+
+#: rc.cpp:285 rc.cpp:288 rc.cpp:309 rc.cpp:318
+msgid "?"
+msgstr ""
+
+#: scriptplugin.cpp:262
+msgid "A JavaScript error has occured: "
+msgstr "Ett fel i JavaSkript har inträffat: "
+
+#: rc.cpp:555
+#, fuzzy
+msgid "A&dvanced Permissions"
+msgstr "Åtkomtsrättighter"
+
+#: rc.cpp:510 rc.cpp:588
+#, fuzzy
+msgid "Access Permissions"
+msgstr "Åtkomtsrättighter"
+
+#: permissionsplugin.cpp:182
+msgid "Access permissions"
+msgstr "Åtkomtsrättighter"
+
+#: filedialogextwidget.cpp:35
+msgid "Add &hidden directories"
+msgstr "Lägg ihop &gömda mappar"
+
+#: filedialogextwidget.cpp:33
+msgid "Add directory names &with filenames"
+msgstr "Lägg ihop mappnamn &med filnamn."
+
+#: filedialogextwidget.cpp:36
+msgid "Add directory names only"
+msgstr "Lägg ihop endast mappnamn"
+
+#: rc.cpp:3
+msgid "Add files for renaming."
+msgstr ""
+
+#: filedialogextwidget.cpp:53
+msgid ""
+"Add only the directory names and not the names of the files in the directory "
+"to KRename."
+msgstr ""
+"Addera bara mappnamnen och inte namnen på filerna i mapparna till KRename."
+
+#: filedialogextwidget.cpp:34
+msgid "Add subdirectories &recursively"
+msgstr "Lägg ihop undermappar rekursivt"
+
+#: scriptplugin.cpp:291
+msgid ""
+"All currently entered definitions will be lost. Do you want to continue?"
+msgstr "Alla aktuella definitioner kommer att förloras. Vill du fortsätta?"
+
+#: rc.cpp:462
+msgid ""
+"All supported tokens (commands) are listed in this dialog. You can search "
+"for tokens and insert a found token into the pattern for the filename."
+msgstr ""
+
+#: main.cpp:82
+msgid "Andreas Pour"
+msgstr "Andreas Pour"
+
+#: main.cpp:107
+msgid "Asim Husanovic"
+msgstr "Asim Husanovic"
+
+#: scriptplugin.cpp:244
+msgid "Boolean"
+msgstr "Boolsk"
+
+#: main.cpp:92
+msgid "Brandon Low"
+msgstr "Brandon Low"
+
+#: krenameimpl.cpp:512
+msgid "Built-in Functions"
+msgstr "Inbyggda funktioner:"
+
+#: rc.cpp:519 rc.cpp:531 rc.cpp:543
+#, fuzzy
+msgid "Can Read"
+msgstr "Läs"
+
+#: rc.cpp:522 rc.cpp:534 rc.cpp:546
+msgid "Can Read & Write"
+msgstr ""
+
+#: datetimeplugin.cpp:113
+msgid "Can't change date of file %1. (Cannot mktime)"
+msgstr "Kan ej ändra datum för fil %1."
+
+#: datetimeplugin.cpp:118
+msgid "Can't change date of file %1. (Cannot stat the file)"
+msgstr "Kan ej ändra datum för fil %1."
+
+#: datetimeplugin.cpp:127
+msgid "Can't change date of file %1. (utime failed)"
+msgstr "Kan ej ändra datum för fil %1."
+
+#: permissionsplugin.cpp:130
+msgid "Can't chmod %1."
+msgstr "Kan ej chmod %1."
+
+#: permissionsplugin.cpp:139
+msgid "Can't chown %1."
+msgstr "Kan ej chown %1."
+
+#: batchrenamer.cpp:670
+msgid "Can't create undo script :"
+msgstr "Kan ej skapa ångra-skript :"
+
+#: batchrenamer.cpp:772
+msgid "Can't set executable bit on undo script."
+msgstr "kan ej sätta exekveringsbit på ångra-skript."
+
+#: batchrenamer.cpp:268
+msgid "Cannot create symlink to non-local URL: %1"
+msgstr "Kan ej skapa symbolisk länk till icke-lokal URL: %1"
+
+#: rc.cpp:192 rc.cpp:234 rc.cpp:300 rc.cpp:342 rc.cpp:411
+msgid "Capitalize"
+msgstr ""
+
+#: rc.cpp:465
+msgid "Category"
+msgstr ""
+
+#: rc.cpp:507
+#, fuzzy
+msgid "Change &Permissions"
+msgstr "Rättigheter"
+
+#: rc.cpp:573
+msgid "Change &access date && time"
+msgstr ""
+
+#: rc.cpp:576
+msgid "Change &modifcation date && time"
+msgstr ""
+
+#: main.cpp:84
+msgid "Charles Samuels"
+msgstr "Charles Samuels"
+
+#: permissionsplugin.cpp:187
+msgid "Class"
+msgstr "Klass"
+
+#: rc.cpp:69
+msgid "Configure the look and feel of the KRename GUI:"
+msgstr ""
+
+#: main.cpp:101
+msgid "Contributed a Spanish translation"
+msgstr "Bidrog med en spansk översättning"
+
+#: rc.cpp:186 rc.cpp:228 rc.cpp:294 rc.cpp:336 rc.cpp:405
+#, fuzzy
+msgid "Convert to lower case"
+msgstr "gammalt filnamn omvandlat till små bokstäver"
+
+#: rc.cpp:189 rc.cpp:231 rc.cpp:297 rc.cpp:339 rc.cpp:408
+#, fuzzy
+msgid "Convert to upper case"
+msgstr "gammalt filnamn omvandlat till stora bokstäver"
+
+#: rc.cpp:90
+msgid "Create symbolic &links in destination directory"
+msgstr ""
+
+#: main.cpp:90
+msgid "Created the Gentoo Ebuild scripts for Krename."
+msgstr "Skapade Gentoo Ebuild skript till KRename."
+
+#: rc.cpp:237 rc.cpp:345
+msgid "Custom extension"
+msgstr ""
+
+#: rc.cpp:483
+#, fuzzy
+msgid "Custom filename"
+msgstr "gammalt filnamn"
+
+#: rc.cpp:195 rc.cpp:303
+msgid "Custom name"
+msgstr ""
+
+#: main.cpp:109
+msgid "Czech Translation"
+msgstr "Tjeckisk översättning"
+
+#: main.cpp:96
+msgid "Daniele Medri"
+msgstr "Daniele Medri"
+
+#: rc.cpp:207 rc.cpp:222 rc.cpp:315 rc.cpp:330
+msgid "Date"
+msgstr ""
+
+#: datetimeplugin.cpp:51
+msgid "Date & Time Plugin"
+msgstr "Plugin för datum & klockslag"
+
+#: systemplugin.cpp:68
+msgid "Date and system functions"
+msgstr "Datum- och systemfunktioner"
+
+#: datetimeplugin.cpp:71
+msgid "DateTimePlugin works only with local files. %1 is a remote file."
+msgstr "Datum-tid plugin fungerar bara med lokala filer. %1 är en fjärrfil."
+
+#: rc.cpp:471
+#, fuzzy
+msgid "Description"
+msgstr "M&ål"
+
+#: rc.cpp:585 rc.cpp:627
+msgid "Dialog"
+msgstr ""
+
+#: scriptplugin.cpp:77
+msgid "Directory of the current file"
+msgstr "Mapp för aktuell fil"
+
+#: rc.cpp:36
+msgid "Display a preview image for each file."
+msgstr ""
+
+#: krenameimpl.cpp:382
+msgid "Do you really want to remove all files from the list?"
+msgstr "Vill du verkligen ta bort alla filer i listan?"
+
+#: main.cpp:69
+msgid "Dominik Seichter"
+msgstr "Dominik Seichter"
+
+#: scriptplugin.cpp:243
+msgid "Double"
+msgstr "Dubbel"
+
+#: rc.cpp:60
+msgid "Down"
+msgstr "Ner"
+
+#: batchrenamer.cpp:760
+msgid "Elapsed time: %1 seconds"
+msgstr "Förfluten tid: %1 sekunder"
+
+#: main.cpp:133
+msgid "Error"
+msgstr "Fel"
+
+#: batchrenamer.cpp:417
+msgid "Error during undoing %1"
+msgstr "Fel vid ångring %1"
+
+#: batchrenamer.cpp:281
+msgid "Error renaming %2 (to %1)"
+msgstr "Fel vid omdöpning %2 (till %1)"
+
+#: permissionsplugin.cpp:196
+msgid "Exec"
+msgstr "Utför"
+
+#: exiv2plugin.cpp:377
+msgid "Exiv2 (JPEG/TIFF Exif) Plugin"
+msgstr "Exiv2 (JPEG/TIFF Exif) plugin"
+
+#: scriptplugin.cpp:76
+msgid "Extension of the current file"
+msgstr "Filbestämning för den aktuella filen."
+
+#: rc.cpp:135
+msgid "File extension &starts at:"
+msgstr ""
+
+#: rc.cpp:489
+#, fuzzy
+msgid "File preview"
+msgstr "&Förhandsgranskning"
+
+#: krenamewindow.cpp:50
+msgid "File&name"
+msgstr "Fil&namn"
+
+#: rc.cpp:198 rc.cpp:306
+#, fuzzy
+msgid "File&name:"
+msgstr "Fil&namn"
+
+#: scriptplugin.cpp:75
+msgid "Filename of the current file"
+msgstr "Filnamn för den aktuella filen"
+
+#: batchrenamer.cpp:370
+msgid "Filenames Processed after %1 seconds."
+msgstr "Filnamn behandlade efter %1 sekunder."
+
+#: batchrenamer.cpp:229 batchrenamer.cpp:683
+msgid "Files will be copied to: %1"
+msgstr "Filer kommer att kopieras till: %1"
+
+#: batchrenamer.cpp:232 batchrenamer.cpp:685
+msgid "Files will be moved to: %1"
+msgstr "Filer kommer att flyttas till: %1"
+
+#: rc.cpp:48
+msgid "Files: <b>0</b>"
+msgstr "Filer: <b>0</b>"
+
+#: rc.cpp:432
+msgid "Find"
+msgstr ""
+
+#: rc.cpp:153 rc.cpp:252 rc.cpp:357
+msgid "Find &and Replace..."
+msgstr ""
+
+#: rc.cpp:426 rc.cpp:447
+msgid "Find and Replace"
+msgstr ""
+
+#: rc.cpp:456
+msgid "Find is a Regular &Expression"
+msgstr ""
+
+#: rc.cpp:141
+msgid "First Dot"
+msgstr ""
+
+#: main.cpp:80
+msgid "Fixed a bug that caused krename not closing open files."
+msgstr "Rättade ett fel som orsakade att krename inte stängde öppna filer."
+
+#: main.cpp:77
+msgid ""
+"Fixed a bug with startIndex and added the BatchRenamer class\n"
+"to his excellent image viewer showimg."
+msgstr ""
+"Rättade ett fel med startindex och lade till BatchRenamer class\n"
+"till denna utmärkta bildvisare."
+
+#: main.cpp:99
+msgid ""
+"Fixed problems with the spec file and contributed rpms for every SuSE "
+"version you can imagine and is also the new Gentoo maintainer for KRename"
+msgstr ""
+"Rättade problem med spec-filen och bidrog med rpms för varje SuSe-version du "
+"kan tänka på och även den nya Gentoo-underhållaren för KRename."
+
+#: rc.cpp:516 rc.cpp:528 rc.cpp:540
+msgid "Forbidden"
+msgstr ""
+
+#: rc.cpp:63 rc.cpp:96 rc.cpp:267 rc.cpp:276 rc.cpp:366 rc.cpp:390 rc.cpp:504
+#: rc.cpp:570 rc.cpp:591 rc.cpp:639
+msgid "Form"
+msgstr ""
+
+#: main.cpp:86
+msgid "Franz Schmid"
+msgstr "Franz Schmid"
+
+#: permissionsplugin.cpp:217
+msgid "GID"
+msgstr "GID"
+
+#: main.cpp:86
+msgid "Gave me a good start into writing plugins with his application scribus."
+msgstr "Gav m en bra start i att skriv plugin med hans tillämpning scribus."
+
+#: rc.cpp:582
+#, fuzzy
+msgid "Get &Current Time"
+msgstr "Skjut in aktuell tidpunkt"
+
+#: rc.cpp:525
+#, fuzzy
+msgid "Gro&up:"
+msgstr "Grupp"
+
+#: main.cpp:77
+msgid "Groult Richard"
+msgstr "Groult Richard"
+
+#: permissionsplugin.cpp:208
+msgid "Group"
+msgstr "Grupp"
+
+#: filedialogextwidget.cpp:51
+msgid ""
+"If not checked, KRename will ignore directories starting with a dot during "
+"recursive adding."
+msgstr ""
+"Om ej märkt, kommer KRename att ignorera mappar, som börjar med en punkt, "
+"under rekursiv addering."
+
+#: main.cpp:106
+msgid "Ilya Ivkov"
+msgstr "Ilya Ivkov"
+
+#: increasecounterplugin.cpp:41
+msgid "Increase Counter"
+msgstr "Öka räknare"
+
+#: scriptplugin.cpp:73
+msgid "Index of the current file"
+msgstr "Index för den aktuella filen"
+
+#: scriptplugin.cpp:132
+msgid "Initial Value"
+msgstr "Startvärde"
+
+#: batchrenamer.cpp:226 batchrenamer.cpp:689
+msgid "Input files will be renamed."
+msgstr "In-filer kommer att döpas om."
+
+#: krenameimpl.cpp:523
+msgid "Insert '#'"
+msgstr "Skjut in '#'"
+
+#: krenameimpl.cpp:515
+msgid "Insert '$'"
+msgstr "Skjut in '$'"
+
+#: krenameimpl.cpp:516
+msgid "Insert '%'"
+msgstr "Skjut in '%'"
+
+#: krenameimpl.cpp:517
+msgid "Insert '&'"
+msgstr "Skjut in '&'"
+
+#: krenameimpl.cpp:518
+msgid "Insert '*'"
+msgstr "Skjut in '*'"
+
+#: krenameimpl.cpp:519
+msgid "Insert '/'"
+msgstr "Skjut in'7'"
+
+#: krenameimpl.cpp:521
+msgid "Insert '['"
+msgstr "Skjut in '['"
+
+#: krenameimpl.cpp:520
+msgid "Insert '\\\\'"
+msgstr "Skjut in '\\\\'"
+
+#: krenameimpl.cpp:522
+msgid "Insert ']'"
+msgstr "Skjut in ']'"
+
+#: scriptplugin.cpp:71
+msgid "Insert a snippet of JavaScript code (4+5 in this case)"
+msgstr "Skjut in ett litet kodavsnitt av JavaScrip-kode (4+5 i deṫta fall)"
+
+#: taglibplugin.cpp:43
+msgid "Insert the album of a track"
+msgstr "Skjut in spårets album"
+
+#: taglibplugin.cpp:42
+msgid "Insert the artist of a track"
+msgstr "Skjut in spårets artist"
+
+#: taglibplugin.cpp:44
+msgid "Insert the comment of a track"
+msgstr "Skjut in spårets kommentar"
+
+#: exiv2plugin.cpp:306
+msgid "Insert the comment of an image"
+msgstr "Skjut in en bildkommentar"
+
+#: systemplugin.cpp:50
+msgid "Insert the current date"
+msgstr "Skjut in aktuellt datum"
+
+#: systemplugin.cpp:51
+msgid "Insert the current date using the formatting string yyyy-MM-dd"
+msgstr ""
+"Skjut in aktuellt datum genom att använda formateringssträngen yyyy-MM-dd"
+
+#: systemplugin.cpp:54
+msgid "Insert the current day as number"
+msgstr "Skjut in aktuell dag som ett tal"
+
+#: systemplugin.cpp:56
+msgid "Insert the current hour as number"
+msgstr "Skjut in aktuell timme som ett tal"
+
+#: systemplugin.cpp:57
+msgid "Insert the current minute as number"
+msgstr "Skjut in aktuell minut som ett tal"
+
+#: systemplugin.cpp:53
+msgid "Insert the current month as number"
+msgstr "Skjut in aktuell månad som ett tal"
+
+#: systemplugin.cpp:58
+msgid "Insert the current second as number"
+msgstr "Skjut in aktuell sekund som ett tal"
+
+#: systemplugin.cpp:55
+msgid "Insert the current time"
+msgstr "Skjut in aktuell tidpunkt"
+
+#: systemplugin.cpp:52
+msgid "Insert the current year"
+msgstr "Skjut in aktuellt år"
+
+#: systemplugin.cpp:65
+msgid "Insert the date of the last file access"
+msgstr "Skjut datumet för senaste filåtkomst"
+
+#: systemplugin.cpp:61
+msgid "Insert the files creation date"
+msgstr "Skjut in filskapelsedatumen"
+
+#: systemplugin.cpp:63
+msgid "Insert the files modification date"
+msgstr "Skjut in filändringsdatumen"
+
+#: systemplugin.cpp:66
+msgid "Insert the formatted date of the last file access"
+msgstr "Skjut in det formaterade datumet för senaste filåtkomst"
+
+#: systemplugin.cpp:62
+msgid "Insert the formatted file creation date"
+msgstr "Skjut in det formaterade filskapelsedatumet"
+
+#: systemplugin.cpp:64
+msgid "Insert the formatted modification date"
+msgstr "Skjut in det formaterade filändringsdatumet"
+
+#: taglibplugin.cpp:45
+msgid "Insert the genre of a track"
+msgstr "Skjut in spårets genre."
+
+#: taglibplugin.cpp:47
+msgid "Insert the number of a track"
+msgstr "Skjut in spårets nummer"
+
+#: taglibplugin.cpp:48
+msgid "Insert the number of a track formatted with a leading 0"
+msgstr "Skjut in spårets nummer formaterat med inledande nolla"
+
+#: taglibplugin.cpp:41
+msgid "Insert the title of a track"
+msgstr "Skjut in spårets titel"
+
+#: taglibplugin.cpp:46
+msgid "Insert the year of a track"
+msgstr "Skjut in spårets år"
+
+#: translitplugin.cpp:94
+msgid "Inserts the transliterated original filename"
+msgstr "Skjut in det translittererade ursprungliga filnamn"
+
+#: translitplugin.cpp:97
+msgid "Inserts the transliterated original filename capitalized"
+msgstr "Skjut in det translittererade ursprungliga filnamnet med versaler"
+
+#: translitplugin.cpp:95
+msgid "Inserts the transliterated original filename converted to lower case"
+msgstr ""
+"Sätter in det translittererade ursprungliga filnamnet omgjort till gemener"
+
+#: translitplugin.cpp:96
+msgid "Inserts the transliterated original filename converted to upper case"
+msgstr ""
+"Sätter in det translittererade ursprungliga filnamnet omgjort till versaler."
+
+#: scriptplugin.cpp:242
+msgid "Int"
+msgstr "Heltal"
+
+#: rc.cpp:552
+msgid "Is Executable/Only owner &can rename and delete folder content"
+msgstr ""
+
+#: main.cpp:96
+msgid "Italian translation"
+msgstr "Italiensk översättning"
+
+#: scriptplugin.cpp:63
+msgid "JavaScript Plugin"
+msgstr "JavaScript-plugin"
+
+#: main.cpp:101
+msgid "Jose Rodriguez"
+msgstr "Jose Rodriguez"
+
+#: main.cpp:59 krenameimpl.cpp:383
+msgid "KRename"
+msgstr "KRename"
+
+#: main.cpp:65
+msgid "KRename Build:"
+msgstr "KRename Build:"
+
+#: rc.cpp:459
+#, fuzzy
+msgid "KRename Help"
+msgstr "KRename"
+
+#: batchrenamer.cpp:303 batchrenamer.cpp:761
+msgid "KRename finished the renaming process."
+msgstr "KRename avslutade omdöpningsprocessen."
+
+#: batchrenamer.cpp:426
+msgid "KRename finished the undo process."
+msgstr "KRename avslutade ångringsprocessen."
+
+#: main.cpp:105
+msgid "Krzysztof Pawlak"
+msgstr "Krzysztof Pawlak"
+
+#: rc.cpp:144
+msgid "Last Dot"
+msgstr ""
+
+#: rc.cpp:66
+msgid "Look and Feel"
+msgstr ""
+
+#: main.cpp:100
+msgid "Mark Ziegler"
+msgstr "Mark Ziegler"
+
+#: main.cpp:80
+msgid "Michael Elvers"
+msgstr "Michael Elvers"
+
+#: main.cpp:98
+msgid "Michael Zugaro"
+msgstr "Michael Zugaro"
+
+#: main.cpp:90
+msgid "Michael v.Ostheim"
+msgstr "Michael v.Ostheim"
+
+#: main.cpp:108
+msgid "Michal Smoczyk"
+msgstr "Michal Smoczyk"
+
+#: rc.cpp:57 rc.cpp:261
+msgid "Move selected files downwards."
+msgstr ""
+
+#: rc.cpp:51 rc.cpp:255
+msgid "Move selected files upwards."
+msgstr ""
+
+#: rc.cpp:240 rc.cpp:348
+msgid "N&umber"
+msgstr ""
+
+#: main.cpp:104
+msgid "Nicolas Benoit"
+msgstr "Nicolas Benoit"
+
+#: rc.cpp:402
+msgid "No Conversion"
+msgstr ""
+
+#: rc.cpp:147
+msgid "No File Extension"
+msgstr ""
+
+#: rc.cpp:204 rc.cpp:219 rc.cpp:312 rc.cpp:327
+msgid "Number"
+msgstr ""
+
+#: rc.cpp:243 rc.cpp:351
+msgid "Number of &digits:"
+msgstr ""
+
+#: rc.cpp:513
+msgid "O&wner:"
+msgstr ""
+
+#: rc.cpp:42
+msgid "Only display the preview, but not the filename."
+msgstr ""
+
+#: krenamemodel.cpp:485
+msgid "Origin"
+msgstr "Ursprung"
+
+#: rc.cpp:537
+#, fuzzy
+msgid "Ot&hers:"
+msgstr "Andra"
+
+#: permissionsplugin.cpp:211
+msgid "Others"
+msgstr "Andra"
+
+#: systemplugin.cpp:59
+msgid "Owner of the file"
+msgstr "Filens ägare"
+
+#: rc.cpp:561
+msgid "Ownership"
+msgstr ""
+
+#: systemplugin.cpp:60
+msgid "Owning group of the file"
+msgstr "Ägargrupp för filen"
+
+#: main.cpp:88
+msgid ""
+"Parts of the PNG support are copied from his KFile plugin for png support."
+msgstr "Delar av PNG-stöd är kopierat från hans KFile-plugin för png-stöd."
+
+#: main.cpp:109
+msgid "Pavel Fric"
+msgstr "Pavel Fric"
+
+#: main.cpp:94
+msgid "Per Oyvind Karlsen"
+msgstr "Per Oyvind Karlsen"
+
+#: permissionsplugin.cpp:112
+msgid "Permissions"
+msgstr "Rättigheter"
+
+#: permissionsplugin.cpp:125
+msgid "PermissionsPlugin works only with local files. %1 is a remote file."
+msgstr "PermissionsPlugin fungerar bara med lokala filer. %1 är en fjärrfil."
+
+#: rc.cpp:492
+msgid "Please input a new filename"
+msgstr ""
+
+#: rc.cpp:270
+#, fuzzy
+msgid "Plugins"
+msgstr "&Plugin"
+
+#: main.cpp:108
+msgid "Polish Translation"
+msgstr "Polsk översättning"
+
+#: batchrenamer.cpp:304 batchrenamer.cpp:427 batchrenamer.cpp:762
+msgid "Press close to quit!"
+msgstr "Tryck stäng för att avsluta!"
+
+#: rc.cpp:474
+#, fuzzy
+msgid "Preview"
+msgstr "&Förhandsgranskning"
+
+#: rc.cpp:480
+#, fuzzy
+msgid "Preview File:"
+msgstr "&Förhandsgranskning"
+
+#: rc.cpp:414
+msgid "Preview of the generated KRename command:"
+msgstr ""
+
+#: rc.cpp:420
+msgid "Progress"
+msgstr ""
+
+#: main.cpp:100
+msgid "Provided SuSE RPMs and very good suggestions"
+msgstr "Bidrog med Suse-PRM:er och mycket bra förslag"
+
+#: main.cpp:102
+msgid "Provided a RedHat RPM and was big help in improving KRename"
+msgstr ""
+"Bidrog med en RadHat-RPM och var till stor hjälp i att förbättra KRename"
+
+#: main.cpp:97
+msgid "Provided a gcc3.x namespace patch"
+msgstr "Bidrog med en gcc3.x namespace-rättelse"
+
+#: main.cpp:98
+msgid "Provided the new preview and move features"
+msgstr "Bidrog med den nya förhandsgranskningens- och flytta-funktionerna"
+
+#: rc.cpp:12
+msgid "Re&move"
+msgstr "Ta&gbort"
+
+#: rc.cpp:18
+msgid "Re&move All"
+msgstr "Tag&bort allt"
+
+#: permissionsplugin.cpp:190
+msgid "Read"
+msgstr "Läs"
+
+#: rc.cpp:429
+msgid "Reg. Expression"
+msgstr ""
+
+#: rc.cpp:15
+#, fuzzy
+msgid "Remove all files."
+msgstr "Tag&bort allt"
+
+#: rc.cpp:9
+msgid "Remove selected files."
+msgstr ""
+
+#: progressdialog.cpp:50
+msgid "Rename &Unprocessed Files Again..."
+msgstr "Döp om ej &processade filer &igen..."
+
+#: progressdialog.cpp:49
+msgid "Rename Processed Files &Again..."
+msgstr "Döp om processade filer &igen..."
+
+#: krenamemodel.cpp:485
+msgid "Renamed"
+msgstr "Omdöpt"
+
+#: batchrenamer.cpp:754
+msgid "Renamed %1 files successfully."
+msgstr "Döpte om %1 filer lyckosamt."
+
+#: main.cpp:99
+msgid "Rene Gass"
+msgstr "Rene Gass"
+
+#: rc.cpp:435
+msgid "Replace With"
+msgstr ""
+
+#: progressdialog.cpp:47
+msgid "Restart &KRename..."
+msgstr "Starta om &KRename..."
+
+#: main.cpp:88
+msgid "Rolf Magnus"
+msgstr "Rolf Magnus"
+
+#: main.cpp:92
+msgid "Some GCC 3.1 fixes for Gentoo."
+msgstr "Några GCC 3.1 rättelser till Gentoo."
+
+#: rc.cpp:24
+msgid "Sort: Ascending"
+msgstr "Sortering: stigande"
+
+#: rc.cpp:27
+msgid "Sort: Descending"
+msgstr "Sortering: fallande"
+
+#: rc.cpp:30
+msgid "Sort: Numeric"
+msgstr "Sortering: numeriskt"
+
+#: rc.cpp:33
+msgid "Sort: Random"
+msgstr "Sortering: slumpmässigt"
+
+#: rc.cpp:21
+msgid "Sort: Unsorted"
+msgstr "Sortering: osorterat"
+
+#: permissionsplugin.cpp:202
+msgid "Special"
+msgstr "Special"
+
+#: krenameimpl.cpp:524
+msgid "Special Characters"
+msgstr "Specialtecken"
+
+#: rc.cpp:246 rc.cpp:354
+msgid "Start  &index:"
+msgstr ""
+
+#: rc.cpp:372
+msgid "Start &index:"
+msgstr ""
+
+#: krenameimpl.cpp:565
+msgid "Starting conversion of %1 files."
+msgstr "Börjar omvandling av %1 filer."
+
+#: main.cpp:71
+msgid "Stefan \"Stonki\" Onken"
+msgstr "Stefan \"Stonki\" Onken"
+
+#: main.cpp:97
+msgid "Stephan Johach"
+msgstr "Stephan Johach"
+
+#: main.cpp:102
+msgid "Steven P. Ulrick"
+msgstr "Steven P. Ulrick"
+
+#: permissionsplugin.cpp:220
+msgid "Sticky"
+msgstr "Vidhäftande"
+
+#: scriptplugin.cpp:241
+msgid "String"
+msgstr "Sträng"
+
+#: fileplugin.cpp:84
+msgid "Supported tokens:"
+msgstr "Understödda märken:"
+
+#: batchrenamer.cpp:235 batchrenamer.cpp:687
+msgid "Symbolic links will be created in: %1"
+msgstr "Symboliska länkar kommer att skapas i: %1"
+
+#: taglibplugin.cpp:50
+msgid "TagLib (MP3/Ogg) Plugin"
+msgstr "TagLib (MP3/Ogg)-plugin"
+
+#: rc.cpp:417 rc.cpp:486 rc.cpp:597 rc.cpp:612
+msgid "TextLabel"
+msgstr ""
+
+#: main.cpp:94
+msgid "Thanks for creating the Mandrake RPM"
+msgstr "Tack för skapandet av Mandrake-RPM."
+
+#: main.cpp:82
+msgid ""
+"Thanks for his great job at apps.kde.com and help with contributing krename "
+"to apps.kde.com."
+msgstr ""
+"Tack för detta jättejobb hos kde.apps.com och hjälp med att låta krename "
+"bidra till apps.kde.com."
+
+#: main.cpp:84
+msgid ""
+"Thanks for noatun and the ID3/Ogg Tag code is based on his noatun modules."
+msgstr "Tack till noatun och ID3/Ogg Tag-kod är grundad hans noatun moduler."
+
+#: main.cpp:75
+msgid "Thanks to him for creating RedHat 7.x packages and some other help."
+msgstr ""
+"Ett tack till honom för att han skapat Red Hat 7.x-paket och viss annan "
+"hjälp."
+
+#: krenameimpl.cpp:584
+msgid "The directory %1 could not be created."
+msgstr "Mappen %1 kunde inte skapas."
+
+#: krenameimpl.cpp:576
+msgid ""
+"The directory %1 does not exist. Do you want KRename to create it for you?"
+msgstr "Mappen %1 finns ej. Vill du att KRename skapar den åt dig?"
+
+#: scriptplugin.cpp:343
+msgid "The file %1 already exists. Do you want to overwrite it?"
+msgstr "Filen %1 finns redan. Vill du skriva över den?"
+
+#: rc.cpp:549
+msgid "This file uses advanced permissions"
+msgstr ""
+
+#: filedialogextwidget.cpp:55
+msgid ""
+"This option causes KRename to add also the name of the base directory of the "
+"selected files to its list."
+msgstr ""
+"Detta val gör att KRename även adderar namnet på basmappen för de valda "
+"filerna till sin lista."
+
+#: rc.cpp:579
+msgid "Time:"
+msgstr ""
+
+#: rc.cpp:468
+msgid "Token"
+msgstr ""
+
+#: rc.cpp:477
+#, fuzzy
+msgid "Token &Preview"
+msgstr "&Förhandsgranskning"
+
+#: main.cpp:107
+msgid "Translated KRename into Bosnian"
+msgstr "Översatte KRename till bosniska"
+
+#: main.cpp:104
+msgid "Translated KRename into French"
+msgstr "Översatte KRename till franska"
+
+#: main.cpp:105
+msgid "Translated KRename into Polish"
+msgstr "Översatte KRename till polska"
+
+#: main.cpp:106
+msgid "Translated KRename into Russian"
+msgstr "Översatte KRename till ryska"
+
+#: main.cpp:103
+msgid "Translated KRename to Japanese"
+msgstr "Översatte KRename till japanska"
+
+#: translitplugin.cpp:98
+msgid "Transliterates the string following the semicolon"
+msgstr "Translittererar strängen, som följer semikolon"
+
+#: translitplugin.cpp:100
+msgid "Transliteration"
+msgstr "Translitteration"
+
+#: main.cpp:75
+msgid "Trevor Semeniuk"
+msgstr "Trevor Semeniuk"
+
+#: permissionsplugin.cpp:214
+msgid "UID"
+msgstr "UID"
+
+#: scriptplugin.cpp:74
+msgid "URL of the current file"
+msgstr "Den aktuella filens URL"
+
+#: main.cpp:103
+msgid "UTUMI Hirosi"
+msgstr "UTUMI Hirosi"
+
+#: scriptplugin.cpp:319
+msgid "Unable to open %1 for reading."
+msgstr "Kan ej öppna %1 för läsning."
+
+#: scriptplugin.cpp:376
+msgid "Unable to open %1 for writing."
+msgstr "Kan ej öppna %1 för skrivning."
+
+#: batchrenamer.cpp:742
+msgid "Undo is not possible for remote file: %1"
+msgstr "Ångra ej möjligt för fjärrfil: %1"
+
+#: batchrenamer.cpp:385
+msgid "Undoing all renamed files."
+msgstr "Ångrar alla omdöpta filer."
+
+#: rc.cpp:54
+msgid "Up"
+msgstr "Upp"
+
+#: rc.cpp:501
+#, fuzzy
+msgid "Use &custom filename"
+msgstr "gammalt filnamn"
+
+#: rc.cpp:498
+#, fuzzy
+msgid "Use &input filename"
+msgstr "gammalt filnamn"
+
+#: rc.cpp:75
+msgid "Use &tabbed style GUI (advanced users)"
+msgstr ""
+
+#: rc.cpp:72
+msgid "Use &wizard style GUI (beginners)"
+msgstr ""
+
+#: rc.cpp:495
+msgid "Use filename created by &KRename"
+msgstr ""
+
+#: rc.cpp:225 rc.cpp:333
+msgid "Use original extension"
+msgstr ""
+
+#: rc.cpp:183 rc.cpp:291
+msgid "Use original name"
+msgstr ""
+
+#: permissionsplugin.cpp:205
+msgid "User"
+msgstr "Användare"
+
+#: scriptplugin.cpp:131
+msgid "Variable Name"
+msgstr "Variabelnamn"
+
+#: filedialogextwidget.cpp:49
+msgid ""
+"Walk recursively through the directory tree and add also the content of all "
+"subdirectories to the list of files to rename."
+msgstr ""
+"Genomlöp rekursivt mappträdet och lägg även till innehållet i alla "
+"undermappar till listan med filer, som skall döpas om."
+
+#: main.cpp:72
+msgid "Website, testing, very good ideas and keeping me coding!"
+msgstr "Websajt, proving, goda ideer och håll mig kodande!"
+
+#: permissionsplugin.cpp:193
+msgid "Write"
+msgstr "Skriv"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "peter.talken@telia.com"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Peter Landgren"
+
+#: main.cpp:46
+msgid "add directory recursively"
+msgstr "lägg till mappar rekursivt"
+
+#: krenameimpl.cpp:505
+msgid "character x to y of old filename"
+msgstr "tecken x till y i gammalt filnamn"
+
+#: main.cpp:50
+msgid "copy files to directory or url"
+msgstr "kopiera filer till mapp eller url"
+
+#: krenameimpl.cpp:503
+msgid "counter with custom start value 0 and custom stepping 1"
+msgstr "räknare med anpassat startvärde 0 och anpassat steg 1"
+
+#: krenameimpl.cpp:504
+msgid "create a subdirectory"
+msgstr "skapa en undermapp"
+
+#: main.cpp:69
+msgid "developer and maintainer"
+msgstr "utvecklare och underhållare"
+
+#: main.cpp:49
+msgid "enable a plugin for use"
+msgstr "tillåt en plugin för användning"
+
+#: main.cpp:45
+msgid "file will be added to the list of files for renaming"
+msgstr "fil kommer att läggas till fillistan för omdöpning"
+
+#: krenameimpl.cpp:500
+msgid "first letter of every word upper case"
+msgstr "första bokstaven i varje ord med stora bokstäver"
+
+#: krenameimpl.cpp:501
+msgid "first letter of filename upper case"
+msgstr "första bokstaven i filnamn med stora bokstäver"
+
+#: krenameimpl.cpp:507
+msgid "insert name of directory"
+msgstr "skjut in mappnamn"
+
+#: krenameimpl.cpp:508
+msgid "insert name of parent directory"
+msgstr "skjut in överordnad mapps namn"
+
+#: krenameimpl.cpp:509
+msgid "insert the length of the input filename"
+msgstr "skjut in längden hos infilnamnet"
+
+#: main.cpp:52
+msgid "link files to directory or url"
+msgstr "länka filer till mapp eller url"
+
+#: main.cpp:51
+msgid "move files to directory or url"
+msgstr "flytta filer till mapp eller url"
+
+#: krenameimpl.cpp:502
+msgid "number (try also ##, ###, ... for leading zeros)"
+msgstr "tal (prova även ##, ###,... för inledande nollor)"
+
+#: krenameimpl.cpp:497
+msgid "old filename"
+msgstr "gammalt filnamn"
+
+#: krenameimpl.cpp:498
+msgid "old filename converted to lower case"
+msgstr "gammalt filnamn omvandlat till små bokstäver"
+
+#: krenameimpl.cpp:499
+msgid "old filename converted to upper case"
+msgstr "gammalt filnamn omvandlat till stora bokstäver"
+
+#: main.cpp:47
+msgid "set a template"
+msgstr "sätt en mall"
+
+#: main.cpp:48
+msgid "set a template for the file extension"
+msgstr "sätt en mall för filändelser"
+
+#: main.cpp:55
+msgid "start KRename's selftest (developers only)"
+msgstr "starta KRename's självtest (endast utvecklare)"
+
+#: main.cpp:54
+msgid "start renaming immediately"
+msgstr "börja omdöpning omedelbart"
+
+#: krenameimpl.cpp:510
+msgid "strip whitespaces leading and trailing"
+msgstr "skala bort mellanslag m. m. i början och i slutet"
+
+#: krenameimpl.cpp:511
+msgid "strip whitespaces leading and trailing of an arbitrary string"
+msgstr ""
+"skala bort mellanslag m. m. i början och i slutet hos en godtycklig sträng"
+
+#: krenameimpl.cpp:506
+msgid "y characters of old filename starting at x"
+msgstr "y tecken i gammalt filnamn börjande vid x"
+
+#~ msgid "E&xtras"
+#~ msgstr "E&xtra"
+
+#~ msgid "Move"
+#~ msgstr "Flytta"
+
+#~ msgid "load the profile named [profile] on startup"
+#~ msgstr "ladda profilen kallad [profil] vid start"
