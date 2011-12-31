@@ -1,0 +1,118 @@
+<ui version="4.0" >
+ <class>PartFilenameWidget</class>
+ <widget class="QWidget" name="PartFilenameWidget" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>412</width>
+    <height>275</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" >
+   <item>
+    <widget class="QFrame" name="frame" >
+     <property name="frameShape" >
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow" >
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QVBoxLayout" >
+      <item>
+       <widget class="QLabel" name="label" >
+        <property name="text" >
+         <string>&lt;qt>Please select the part of the old filename  which should be inserted into the new filename in the textbox below:&lt;/qt></string>
+        </property>
+        <property name="wordWrap" >
+         <bool>true</bool>
+        </property>
+        <property name="buddy" >
+         <cstring></cstring>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="SelectionSafeLineEdit" name="textFilename" >
+        <property name="readOnly" >
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QCheckBox" name="checkInvert" >
+        <property name="text" >
+         <string>&amp;Invert selection</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" >
+        <item>
+         <widget class="QLabel" name="label_2" >
+          <property name="text" >
+           <string>&amp;Convert selection:</string>
+          </property>
+          <property name="buddy" >
+           <cstring>comboConvert</cstring>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="comboConvert" >
+          <item>
+           <property name="text" >
+            <string>No Conversion</string>
+           </property>
+          </item>
+          <item>
+           <property name="text" >
+            <string>Convert to lower case</string>
+           </property>
+          </item>
+          <item>
+           <property name="text" >
+            <string>Convert to upper case</string>
+           </property>
+          </item>
+          <item>
+           <property name="text" >
+            <string>Capitalize</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <widget class="QLabel" name="labelPreviewDesc" >
+        <property name="text" >
+         <string>Preview of the generated KRename command:</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="labelPreview" >
+        <property name="text" >
+         <string>TextLabel</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>SelectionSafeLineEdit</class>
+   <extends>QLineEdit</extends>
+   <header>selectionsafelineedit.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
