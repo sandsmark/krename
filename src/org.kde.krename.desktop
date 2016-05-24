@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=KRename
+GenericName=A batch renamer
+Exec=krename %i %m %U
+Icon=krename
+DocPath=krename/index.html
+Comment=A batch renamer
+Terminal=false
+Categories=Qt;KDE;Utility;
+InitialPreference=10
+X-DBUS-ServiceName=org.kde.kompare
